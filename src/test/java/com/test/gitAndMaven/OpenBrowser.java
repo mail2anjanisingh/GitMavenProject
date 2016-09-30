@@ -24,5 +24,6 @@ public class OpenBrowser {
 		//System.setProperty("webdriver.gecko.driver", "C:\\Selenium\\geckodriver.exe");
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://www.google.co.in/");
+		System.out.print("hello");
 	}
 }
