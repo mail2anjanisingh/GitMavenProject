@@ -25,6 +25,6 @@ public class OpenBrowser {
 		WebDriver driver = new ChromeDriver();
 		driver.get("https://www.google.co.in/");
 		System.out.print("hello");
-		System.out.print("hello");
+		System.out.print("hello1");
 	}
 }
